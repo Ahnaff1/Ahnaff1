@@ -33,8 +33,6 @@ I enjoy designing clean architectures, building performant React Native applicat
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react)
