@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Ahnaf 👋
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=Ahnaff1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 
 Senior Full Stack & Mobile Developer with 4+ years of experience building scalable mobile and web applications across SaaS, IoT, and enterprise domains.
 
